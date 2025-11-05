@@ -1,0 +1,17 @@
+{
+    "users": [
+        {
+            "username": "weiwen",
+            "password": "$2b$12$1d3qk9dJxuCEOI6YN2GXCeELjjO.kOy4gVK37QpiqWJZbT0GuLnke",
+            "groups": {
+                "chair": [
+                    "ww",
+                    "chel",
+                    "yl"
+                ]
+            },
+            "plan_type": "Premium Solo",
+            "plan_duration": "Monthly"
+        }
+    ]
+}
